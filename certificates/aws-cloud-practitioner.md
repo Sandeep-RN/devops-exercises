@@ -280,7 +280,7 @@ True
 </b></details>
 
 <details>
-<summary>Explain Object Durability and Object Availability</summary><br><b>
+<summary>Explain Object Durability and Object Availability.</summary><br><b>
 
 Object Durability: The percent over a one-year time period that a file will not be lost
 Object Availability: The percent over a one-year time period that a file will be accessible
