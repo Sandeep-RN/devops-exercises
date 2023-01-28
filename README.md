@@ -403,7 +403,7 @@ For example, your computer's private IP could be 192.168.1.100, but your router 
 </b></details>
 
 <details>
-<summary>Which factors affect network performances</summary><br><b>
+<summary>Which factors affect network performances?</summary><br><b>
 </b></details>
 
 <details>
